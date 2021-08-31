@@ -1,8 +1,6 @@
 # React Basics Components
 "React Basics Components" is one of the projects done as part of the course - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) by Maximilian Schwarzmüller.
 
-Its structure is built with OOP using classes and objects.
-
 ## Content
 
 * React Basics & Working With Components
